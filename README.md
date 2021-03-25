@@ -1,1 +1,1 @@
-# BDStockTP
+TP avec le FrameWork Hibernate
